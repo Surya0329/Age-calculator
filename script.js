@@ -43,7 +43,7 @@ function calculateAge(){
     console.log(y3,m3,d3)
 
     result.innerHTML = `you are ${y3} year, ${m3} months and ${d3}
-    days old, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp 1 Year = 365 possiblities 👑`;
+    days old, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp "Don't wait for oppertunity-create it👑"`;
 
 }
 
